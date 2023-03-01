@@ -1,4 +1,4 @@
-[08:16:13] [ServerMain/INFO]: Building unoptimized datafixer
-[08:16:14] [ServerMain/ERROR]: Failed to load properties from file: server.properties
-[08:16:14] [ServerMain/WARN]: Failed to load eula.txt
-[08:16:14] [ServerMain/INFO]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
+[21:25:02] [ServerMain/INFO]: Building unoptimized datafixer
+[21:25:03] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:25:03] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[21:25:05] [ServerMain/INFO]: Loaded 7 recipes
