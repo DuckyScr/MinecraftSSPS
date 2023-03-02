@@ -174,3 +174,8 @@
 [08:05:55] [Server thread/INFO]: Time elapsed: 1383 ms
 [08:05:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
 [08:05:55] [Server thread/INFO]: Done (37.675s)! For help, type "help"
+[08:13:50] [User Authenticator #1/INFO]: UUID of player InkognyteMan is 6a621606-844e-4d07-b579-49462f8f4b99
+[08:13:50] [Server thread/INFO]: InkognyteMan joined the game
+[08:13:50] [Server thread/INFO]: InkognyteMan[/172.17.0.1:44656] logged in with entity id 11 at ([world]38.5, 68.0, -24.5)
+[08:14:45] [Server thread/INFO]: InkognyteMan lost connection: Disconnected
+[08:14:45] [Server thread/INFO]: InkognyteMan left the game
